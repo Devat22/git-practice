@@ -32,7 +32,6 @@ fun main() {
         5->"five"
         8->"eight"
         9->"nine"
-        6->"six"
         else -> "invalid number"
     }
     println("You provided $numberProvided")
